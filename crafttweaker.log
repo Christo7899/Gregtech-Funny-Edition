@@ -1,0 +1,710 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[10000:gregtech]: materials.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: ore_dict_unification.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[999:crafttweaker]: gregtech_recipemaps.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[98:crafttweaker]: greenhouse.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ae2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: building_gadgets.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: elevators.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: gregtech.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: open_glider.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: storage_drawers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: torchmaster.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: vanilla.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 4ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [gregtech]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [gregtech]
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Loading Script: {[10000:gregtech]: materials.zs}
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[1000:crafttweaker]: ore_dict_unification.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[999:crafttweaker]: gregtech_recipemaps.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[98:crafttweaker]: greenhouse.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ae2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: building_gadgets.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: elevators.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: gregtech.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: open_glider.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: storage_drawers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: torchmaster.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: vanilla.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 389ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [gregtech], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Skipping file {[10000:gregtech]: materials.zs} as we are currently loading with a different loader
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[1000:crafttweaker]: ore_dict_unification.zs}
+[INITIALIZATION][CLIENT][INFO] Removing Gold Ore from ore dictionary entry oreGold
+[INITIALIZATION][CLIENT][INFO] Removing Iron Ore from ore dictionary entry oreIron
+[INITIALIZATION][CLIENT][INFO] Removing Coal Ore from ore dictionary entry oreCoal
+[INITIALIZATION][CLIENT][INFO] Removing Lapis Lazuli Ore from ore dictionary entry oreLapis
+[INITIALIZATION][CLIENT][INFO] Removing Diamond Ore from ore dictionary entry oreDiamond
+[INITIALIZATION][CLIENT][INFO] Removing Redstone Ore from ore dictionary entry oreRedstone
+[INITIALIZATION][CLIENT][INFO] Removing Emerald Ore from ore dictionary entry oreEmerald
+[INITIALIZATION][CLIENT][INFO] Removing Nether Quartz Ore from ore dictionary entry oreNetherQuartz
+[INITIALIZATION][CLIENT][INFO] Removing Nether Quartz Ore from ore dictionary entry oreQuartz
+[INITIALIZATION][CLIENT][INFO] Removing Gold Dust from ore dictionary entry dustGold
+[INITIALIZATION][CLIENT][INFO] Removing Iron Dust from ore dictionary entry dustIron
+[INITIALIZATION][CLIENT][INFO] Removing Nether Quartz Dust from ore dictionary entry dustNetherQuartz
+[INITIALIZATION][CLIENT][INFO] Removing Nether Quartz Dust from ore dictionary entry dustQuartz
+[INITIALIZATION][CLIENT][INFO] Removing Certus Quartz Dust from ore dictionary entry dustCertusQuartz
+[INITIALIZATION][CLIENT][INFO] Removing Fluix Dust from ore dictionary entry dustFluix
+[INITIALIZATION][CLIENT][INFO] Removing Ender Dust from ore dictionary entry dustEnder
+[INITIALIZATION][CLIENT][INFO] Removing Ender Dust from ore dictionary entry dustEnderPearl
+[INITIALIZATION][CLIENT][INFO] Removing Fluix Crystal from ore dictionary entry crystalFluix
+[INITIALIZATION][CLIENT][INFO] Removing Silicon from ore dictionary entry itemSilicon
+[INITIALIZATION][CLIENT][INFO] Removing Certus Quartz Crystal from ore dictionary entry crystalCertusQuartz
+[INITIALIZATION][CLIENT][INFO] Adding Fluix Crystal to ore dictionary entry crystalFluix
+[INITIALIZATION][CLIENT][INFO] Adding Silicon Plate to ore dictionary entry itemSilicon
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[999:crafttweaker]: gregtech_recipemaps.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Wrench to ore dictionary entry gtceWrenches
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Wrench (LV) to ore dictionary entry gtceWrenches
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Wrench (MV) to ore dictionary entry gtceWrenches
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Wrench (HV) to ore dictionary entry gtceWrenches
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Screwdriver to ore dictionary entry gtceScrewdrivers
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Screwdriver (LV) to ore dictionary entry gtceScrewdrivers
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Hammer to ore dictionary entry gtceHardHammers
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Saw to ore dictionary entry gtceSaws
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Chainsaw (LV) to ore dictionary entry gtceSaws
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Chainsaw (MV) to ore dictionary entry gtceSaws
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Chainsaw (HV) to ore dictionary entry gtceSaws
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Buzzsaw (LV) to ore dictionary entry gtceSaws
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium File to ore dictionary entry gtceFiles
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Wire Cutter to ore dictionary entry gtceWireCutters
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Soft Hammer to ore dictionary entry gtceSoftHammers
+[INITIALIZATION][CLIENT][INFO] Adding Neutronium Mortar to ore dictionary entry gtceMortars
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[98:crafttweaker]: greenhouse.zs}
+[INITIALIZATION][CLIENT][INFO] Registered multiblock: multiblocktweaker:greenhouse, with meta 32000
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ae2.zs}
+[INITIALIZATION][CLIENT][ERROR] ae2.zs:310: Could not resolve <wct : wct>
+[INITIALIZATION][CLIENT][ERROR] ae2.zs:317: Could not resolve <wct : wct_creative>
+[INITIALIZATION][CLIENT][ERROR] ae2.zs:318: Could not resolve <wct : wct>
+[INITIALIZATION][CLIENT][ERROR] ae2.zs:503: Could not resolve <wct : magnet_card>
+[INITIALIZATION][CLIENT][ERROR] ae2.zs:1001: Could not resolve <ae2wtlib : infinity_booster_card>
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: building_gadgets.zs}
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:4: Could not resolve <buildinggadgets : buildingtool>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:12: Could not resolve <buildinggadgets : exchangertool>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:20: Could not resolve <buildinggadgets : copypastetool>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:28: Could not resolve <buildinggadgets : templatemanager>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:36: Could not resolve <buildinggadgets : destructiontool>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:49: Could not resolve <buildinggadgets : constructionpaste>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:56: Could not resolve <buildinggadgets : constructionpastecontainer>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:64: Could not resolve <buildinggadgets : constructionpastecontainert2>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:66: Could not resolve <buildinggadgets : constructionpastecontainer>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:72: Could not resolve <buildinggadgets : constructionpastecontainert3>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:74: Could not resolve <buildinggadgets : constructionpastecontainert2>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:80: Could not resolve <buildinggadgets : constructionpastecontainercreative>
+[INITIALIZATION][CLIENT][ERROR] building_gadgets.zs:82: Could not resolve <buildinggadgets : constructionpastecontainert3>
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: building_gadgets.zs}: null
+java.lang.NullPointerException
+	at java.util.Arrays.stream(Arrays.java:5004)
+	at gregtech.api.recipes.crafttweaker.CTRecipeBuilder.outputs(CTRecipeBuilder.java:90)
+	at Building_gadgets.__script__(building_gadgets.zs:46)
+	at __ZenMain__.run(Building_gadgets)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_240_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: elevators.zs}
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:29: Could not resolve <elevatorid : elevator_gray>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:39: Could not resolve <elevatorid : elevator_gray>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:65: Could not resolve <elevatorid : elevator_white>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:66: Could not resolve <elevatorid : elevator_orange>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:67: Could not resolve <elevatorid : elevator_magenta>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:68: Could not resolve <elevatorid : elevator_light_blue>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:69: Could not resolve <elevatorid : elevator_yellow>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:70: Could not resolve <elevatorid : elevator_lime>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:71: Could not resolve <elevatorid : elevator_pink>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:72: Could not resolve <elevatorid : elevator_gray>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:73: Could not resolve <elevatorid : elevator_silver>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:74: Could not resolve <elevatorid : elevator_cyan>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:75: Could not resolve <elevatorid : elevator_purple>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:76: Could not resolve <elevatorid : elevator_blue>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:77: Could not resolve <elevatorid : elevator_brown>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:78: Could not resolve <elevatorid : elevator_green>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:79: Could not resolve <elevatorid : elevator_red>
+[INITIALIZATION][CLIENT][ERROR] elevators.zs:80: Could not resolve <elevatorid : elevator_black>
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: elevators.zs}: Bad type on operand stack
+Exception Details:
+  Location:
+    Elevators.__script__()V @164: ifnonnull
+  Reason:
+    Type integer (current frame, stack[4]) is not assignable to reference type
+  Current Frame:
+    bci: @164
+    flags: { }
+    locals: { top, '[Ljava/lang/String;', top, top, integer }
+    stack: { 'crafttweaker/api/recipes/IRecipeManager', 'java/lang/String', null, integer, integer }
+  Bytecode:
+    0x0000000: 120a bd00 0c59 120d 120f 5359 1210 1212
+    0x0000010: 5359 1213 1215 5359 1216 1218 5359 1219
+    0x0000020: 121b 5359 121c 121e 5359 121f 1221 5359
+    0x0000030: 1222 1224 5359 1225 1227 5359 1228 122a
+    0x0000040: 5359 122b 122d 5359 122e 1230 5359 1231
+    0x0000050: 1233 5359 1234 1236 5359 1237 1239 5359
+    0x0000060: 123a 123c 534c 2b03 3604 59be 1504 a400
+    0x0000070: 2c59 1504 323a 05b2 0042 bb00 4459 b700
+    0x0000080: 4712 49b6 004d 1905 b600 4db6 0051 01b9
+    0x0000090: 0057 0300 8404 01a7 ffd3 57b2 0042 1259
+    0x00000a0: 0112 1359 c700 0857 01a7 0006 b800 5fb8
+    0x00000b0: 0065 59c7 0008 5701 a700 06b8 005f b900
+    0x00000c0: 6b02 0012 6db9 0071 0200 1216 bd00 7359
+    0x00000d0: 120d 1216 bd00 7559 120d 1277 b800 7d53
+    0x00000e0: 5912 1012 77b8 007d 5359 1213 1277 b800
+    0x00000f0: 7d53 5359 1210 1216 bd00 7559 120d 127f
+    0x0000100: b800 7d53 5912 1012 81b8 007d 5359 1213
+    0x0000110: 127f b800 7d53 5359 1213 1216 bd00 7559
+    0x0000120: 120d 1277 b800 7d53 5912 1012 77b8 007d
+    0x0000130: 5359 1213 1277 b800 7d53 5301 01b9 0085
+    0x0000140: 0600 b200 8bb6 0091 1210 bd00 7559 120d
+    0x0000150: 1293 b800 7d53 b600 9912 10bd 009b 5912
+    0x0000160: 0d12 9db8 00a3 12a4 b900 a802 0053 b600
+    0x0000170: ac01 b600 b012 b1b6 00b5 1213 b600 b8b6
+    0x0000180: 00bb 120a bd00 9b59 120d 12bd b800 a312
+    0x0000190: beb9 00a8 0200 5359 1210 12c0 b800 a312
+    0x00001a0: beb9 00a8 0200 5359 1213 12c2 b800 a312
+    0x00001b0: beb9 00a8 0200 5359 1216 12c4 b800 a312
+    0x00001c0: beb9 00a8 0200 5359 1219 12c6 b800 a312
+    0x00001d0: beb9 00a8 0200 5359 121c 12c8 b800 a312
+    0x00001e0: beb9 00a8 0200 5359 121f 12ca b800 a312
+    0x00001f0: beb9 00a8 0200 5359 1222 12cc b800 a312
+    0x0000200: beb9 00a8 0200 5359 1225 12ce b800 a312
+    0x0000210: beb9 00a8 0200 5359 1228 12d0 b800 a312
+    0x0000220: beb9 00a8 0200 5359 122b 12d2 b800 a312
+    0x0000230: beb9 00a8 0200 5359 122e 12d4 b800 a312
+    0x0000240: beb9 00a8 0200 5359 1231 12d6 b800 a312
+    0x0000250: beb9 00a8 0200 5359 1234 12d8 b800 a312
+    0x0000260: beb9 00a8 0200 5359 1237 12da b800 a312
+    0x0000270: beb9 00a8 0200 5359 123a 12dc b800 a312
+    0x0000280: beb9 00a8 0200 533a 0712 0abd 006d 5912
+    0x0000290: 0d01 5359 1210 0153 5912 1301 5359 1216
+    0x00002a0: 0153 5912 1901 5359 121c 0153 5912 1f01
+    0x00002b0: 5359 1222 0153 5912 2501 5359 1228 0153
+    0x00002c0: 5912 2b01 5359 122e 0153 5912 3101 5359
+    0x00002d0: 1234 0153 5912 3701 5359 123a 0153 3a09
+    0x00002e0: 1909 0336 0c59 be15 0ca4 0052 5915 0c32
+    0x00002f0: 3a0d b200 8bb6 0091 1210 bd00 7559 120d
+    0x0000300: 1293 b800 7d53 b600 9912 10bd 009b 5912
+    0x0000310: 0d19 0715 0c32 53b6 00ac 1210 bd00 6d59
+    0x0000320: 120d 190d 53b6 00b0 12dd b600 b512 22b6
+    0x0000330: 00b8 b600 bb84 0c01 a7ff ad57 b1       
+  Stackmap Table:
+    full_frame(@106,{Top,Object[#223],Top,Top,Integer},{Object[#223]})
+    same_locals_1_stack_item_frame(@154,Object[#223])
+    full_frame(@172,{Top,Object[#223],Top,Top,Integer},{Object[#83],Object[#12],Null,Integer})
+    full_frame(@175,{Top,Object[#223],Top,Top,Integer},{Object[#83],Object[#12],Null,Object[#103]})
+    full_frame(@187,{Top,Object[#223],Top,Top,Integer},{Object[#83],Object[#12],Null,Object[#225]})
+    full_frame(@190,{Top,Object[#223],Top,Top,Integer},{Object[#83],Object[#12],Null,Object[#103]})
+    full_frame(@741,{Top,Object[#223],Top,Top,Integer,Top,Top,Object[#227],Top,Object[#229],Top,Top,Integer},{Object[#229]})
+    same_locals_1_stack_item_extended(@827,Object[#229])
+
+java.lang.VerifyError: Bad type on operand stack
+Exception Details:
+  Location:
+    Elevators.__script__()V @164: ifnonnull
+  Reason:
+    Type integer (current frame, stack[4]) is not assignable to reference type
+  Current Frame:
+    bci: @164
+    flags: { }
+    locals: { top, '[Ljava/lang/String;', top, top, integer }
+    stack: { 'crafttweaker/api/recipes/IRecipeManager', 'java/lang/String', null, integer, integer }
+  Bytecode:
+    0x0000000: 120a bd00 0c59 120d 120f 5359 1210 1212
+    0x0000010: 5359 1213 1215 5359 1216 1218 5359 1219
+    0x0000020: 121b 5359 121c 121e 5359 121f 1221 5359
+    0x0000030: 1222 1224 5359 1225 1227 5359 1228 122a
+    0x0000040: 5359 122b 122d 5359 122e 1230 5359 1231
+    0x0000050: 1233 5359 1234 1236 5359 1237 1239 5359
+    0x0000060: 123a 123c 534c 2b03 3604 59be 1504 a400
+    0x0000070: 2c59 1504 323a 05b2 0042 bb00 4459 b700
+    0x0000080: 4712 49b6 004d 1905 b600 4db6 0051 01b9
+    0x0000090: 0057 0300 8404 01a7 ffd3 57b2 0042 1259
+    0x00000a0: 0112 1359 c700 0857 01a7 0006 b800 5fb8
+    0x00000b0: 0065 59c7 0008 5701 a700 06b8 005f b900
+    0x00000c0: 6b02 0012 6db9 0071 0200 1216 bd00 7359
+    0x00000d0: 120d 1216 bd00 7559 120d 1277 b800 7d53
+    0x00000e0: 5912 1012 77b8 007d 5359 1213 1277 b800
+    0x00000f0: 7d53 5359 1210 1216 bd00 7559 120d 127f
+    0x0000100: b800 7d53 5912 1012 81b8 007d 5359 1213
+    0x0000110: 127f b800 7d53 5359 1213 1216 bd00 7559
+    0x0000120: 120d 1277 b800 7d53 5912 1012 77b8 007d
+    0x0000130: 5359 1213 1277 b800 7d53 5301 01b9 0085
+    0x0000140: 0600 b200 8bb6 0091 1210 bd00 7559 120d
+    0x0000150: 1293 b800 7d53 b600 9912 10bd 009b 5912
+    0x0000160: 0d12 9db8 00a3 12a4 b900 a802 0053 b600
+    0x0000170: ac01 b600 b012 b1b6 00b5 1213 b600 b8b6
+    0x0000180: 00bb 120a bd00 9b59 120d 12bd b800 a312
+    0x0000190: beb9 00a8 0200 5359 1210 12c0 b800 a312
+    0x00001a0: beb9 00a8 0200 5359 1213 12c2 b800 a312
+    0x00001b0: beb9 00a8 0200 5359 1216 12c4 b800 a312
+    0x00001c0: beb9 00a8 0200 5359 1219 12c6 b800 a312
+    0x00001d0: beb9 00a8 0200 5359 121c 12c8 b800 a312
+    0x00001e0: beb9 00a8 0200 5359 121f 12ca b800 a312
+    0x00001f0: beb9 00a8 0200 5359 1222 12cc b800 a312
+    0x0000200: beb9 00a8 0200 5359 1225 12ce b800 a312
+    0x0000210: beb9 00a8 0200 5359 1228 12d0 b800 a312
+    0x0000220: beb9 00a8 0200 5359 122b 12d2 b800 a312
+    0x0000230: beb9 00a8 0200 5359 122e 12d4 b800 a312
+    0x0000240: beb9 00a8 0200 5359 1231 12d6 b800 a312
+    0x0000250: beb9 00a8 0200 5359 1234 12d8 b800 a312
+    0x0000260: beb9 00a8 0200 5359 1237 12da b800 a312
+    0x0000270: beb9 00a8 0200 5359 123a 12dc b800 a312
+    0x0000280: beb9 00a8 0200 533a 0712 0abd 006d 5912
+    0x0000290: 0d01 5359 1210 0153 5912 1301 5359 1216
+    0x00002a0: 0153 5912 1901 5359 121c 0153 5912 1f01
+    0x00002b0: 5359 1222 0153 5912 2501 5359 1228 0153
+    0x00002c0: 5912 2b01 5359 122e 0153 5912 3101 5359
+    0x00002d0: 1234 0153 5912 3701 5359 123a 0153 3a09
+    0x00002e0: 1909 0336 0c59 be15 0ca4 0052 5915 0c32
+    0x00002f0: 3a0d b200 8bb6 0091 1210 bd00 7559 120d
+    0x0000300: 1293 b800 7d53 b600 9912 10bd 009b 5912
+    0x0000310: 0d19 0715 0c32 53b6 00ac 1210 bd00 6d59
+    0x0000320: 120d 190d 53b6 00b0 12dd b600 b512 22b6
+    0x0000330: 00b8 b600 bb84 0c01 a7ff ad57 b1       
+  Stackmap Table:
+    full_frame(@106,{Top,Object[#223],Top,Top,Integer},{Object[#223]})
+    same_locals_1_stack_item_frame(@154,Object[#223])
+    full_frame(@172,{Top,Object[#223],Top,Top,Integer},{Object[#83],Object[#12],Null,Integer})
+    full_frame(@175,{Top,Object[#223],Top,Top,Integer},{Object[#83],Object[#12],Null,Object[#103]})
+    full_frame(@187,{Top,Object[#223],Top,Top,Integer},{Object[#83],Object[#12],Null,Object[#225]})
+    full_frame(@190,{Top,Object[#223],Top,Top,Integer},{Object[#83],Object[#12],Null,Object[#103]})
+    full_frame(@741,{Top,Object[#223],Top,Top,Integer,Top,Top,Object[#227],Top,Object[#229],Top,Top,Integer},{Object[#229]})
+    same_locals_1_stack_item_extended(@827,Object[#229])
+
+	at __ZenMain__.run(Elevators)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_240_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: gregtech.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: jei.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: open_glider.zs}
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:4: Could not resolve <openglider : hang_glider_part>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:12: Could not resolve <openglider : hang_glider_part : 1>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:20: Could not resolve <openglider : hang_glider_part : 2>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:28: Could not resolve <openglider : hang_glider_basic>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:30: Could not resolve <openglider : hang_glider_part>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:30: Could not resolve <openglider : hang_glider_part : 2>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:30: Could not resolve <openglider : hang_glider_part : 1>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:36: Could not resolve <openglider : hang_glider_advanced>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:38: Could not resolve <openglider : hang_glider_part>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:38: Could not resolve <openglider : hang_glider_basic>
+[INITIALIZATION][CLIENT][ERROR] open_glider.zs:38: Could not resolve <openglider : hang_glider_part : 1>
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: storage_drawers.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: torchmaster.zs}
+[INITIALIZATION][CLIENT][ERROR] torchmaster.zs:4: Could not resolve <torchmaster : mega_torch>
+[INITIALIZATION][CLIENT][ERROR] torchmaster.zs:12: Could not resolve <torchmaster : terrain_lighter>
+[INITIALIZATION][CLIENT][ERROR] torchmaster.zs:20: Could not resolve <torchmaster : dread_lamp>
+[INITIALIZATION][CLIENT][ERROR] torchmaster.zs:28: Could not resolve <torchmaster : feral_flare_lantern>
+[INITIALIZATION][CLIENT][ERROR] torchmaster.zs:39: Could not resolve <torchmaster : frozen_pearl>
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: torchmaster.zs}: null
+java.lang.NullPointerException
+	at java.util.Arrays.stream(Arrays.java:5004)
+	at gregtech.api.recipes.crafttweaker.CTRecipeBuilder.outputs(CTRecipeBuilder.java:90)
+	at Torchmaster.__script__(torchmaster.zs:36)
+	at __ZenMain__.run(Torchmaster)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_240_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: vanilla.zs}
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 867ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:decorative/quartz_glass"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:decorative/quartz_vibrant_glass"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/grindstone"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/grindstone_crank"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/inscribers"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/crystal_processing_charger"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/deconstruction_certus_quartz_pillar"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/deconstruction_certus_quartz_block"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/deconstruction_certus_chiseled_quartz"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/tiny_tnt"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/wireless_access_point"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/security_station"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/quantum_ring"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/quantum_link"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/storage_drive"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/storage_chest"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/interfaces_interface"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/fluid_interfaces_interface"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/cell_workbench"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/io_port"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/io_condenser"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/energy_energy_acceptor"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/energy_vibration_chamber"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/energy_energy_cell"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/blocks/energy_dense_energy_cell"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/crafting/cpu_crafting_unit"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/crafting/cpu_crafting_accelerator"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/crafting/cpu_crafting_storage_1k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/crafting/cpu_crafting_storage_4k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/crafting/cpu_crafting_storage_16k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/crafting/cpu_crafting_storage_64k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/crafting/cpu_crafting_monitor"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/crafting/molecular_assembler"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/wireless_terminal"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "wct:wct"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "wct:wct"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:tools/network_biometric_card"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:tools/network_memory_card"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:tools/network_tool"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/seeds_certus"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/seeds_nether"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/seeds_fluix"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/view_cell"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/view_cell_storage"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_cell_1k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_cell_1k_storage"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_cell_4k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_cell_4k_storage"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_cell_16k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_cell_16k_storage"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_cell_64k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_cell_64k_storage"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_cell_1k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_cell_1k_storage"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_cell_4k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_cell_4k_storage"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_cell_16k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_cell_16k_storage"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_cell_64k"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_cell_64k_storage"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/empty_storage_cell"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/advancedcard"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/cardfuzzy"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/cardinverter"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/cardpatternexpansion"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/cardspeed"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "wct:magnet_card"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/basiccard"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/cardcapacity"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/cardcrafting"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/cardredstone"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_components_cell_1k_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_components_cell_4k_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_components_cell_16k_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/storage_components_cell_64k_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_components_cell_1k_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_components_cell_4k_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_components_cell_16k_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cells/fluid_storage_components_cell_64k_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/crafting/patterns_blank"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:misc/fluixpearl"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/wireless_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/annihilationcore"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:materials/formationcore"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/cable_anchor"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/quartz_fiber_part"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/panels_semi_dark_monitor"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/storage_bus"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/oredict_storage_bus"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/oredict_storage_bus_alt"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/storage_bus_fluid"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/import_bus"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/import_bus_fluid"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/export_bus"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/export_bus_fluid"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/planes_formation"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/planes_formation_alt"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/planes_annihilation_alt"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/planes_annihilation_alt2"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/planes_formation_fluid"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/planes_formation_fluid_alt"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/planes_annihilation_fluid"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/planes_annihilation_fluid_alt"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/terminals"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/terminals_crafting"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/terminals_pattern"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/terminal_expanded_processing"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/terminals_interface"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/terminals_fluid"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/parts/tunnels_me"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/wireless_booster"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "ae2wtlib:booster_card_old"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:tools/network_portable_cell"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cables/glass_fluix_clean"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cables/glass_fluix"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cables/covered_fluix_clean"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "appliedenergistics2:network/cables/covered_fluix"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "buildinggadgets:buildingtool"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "buildinggadgets:exchangingtool"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "buildinggadgets:copypastetool"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "buildinggadgets:templatemanager"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "buildinggadgets:destructiontool"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "buildinggadgets:constructionpastepowder"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "gregtech:cover_fluid_voiding"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "gregtech:cover_item_voiding"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "openglider:glider_wing_left"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "openglider:glider_wing_right"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "openglider:glider_scaffolding"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "openglider:glider_basic"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "openglider:glider_adv"
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <minecraft:diamond>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 0 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers1_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers1_spruce"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers1_birch"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers1_jungle"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers1_acacia"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers1_dark_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers2_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers2_spruce"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers2_birch"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers2_jungle"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers2_acacia"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers2_dark_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers4_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers4_spruce"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers4_birch"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers4_jungle"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers4_acacia"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_fulldrawers4_dark_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers2_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers2_spruce"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers2_birch"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers2_jungle"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers2_acacia"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers2_dark_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers4_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers4_spruce"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers4_birch"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers4_jungle"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers4_acacia"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:basicdrawers_halfdrawers4_dark_oak"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:framing_table"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:framed_drawer_full1"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:framed_drawer_full2"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:framed_drawer_full4"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:framed_drawer_half2"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:framed_drawer_half4"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:controller"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:controller_slave"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:upgrade_template"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:upgrade_storage_obsidian"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:upgrade_storage_iron"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:upgrade_storage_gold"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:upgrade_storage_diamond"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:upgrade_storage_emerald"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:upgrade_one_stack"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:upgrade_void"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "storagedrawers:key_drawer"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "torchmaster:mega_torch"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "torchmaster:terrain_lighter"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "torchmaster:dread_lamp"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "torchmaster:feral_flare_lantern"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "torchmaster:frozen_pearl"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:blaze_powder"
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipe with name "minecraft:ender_eye"
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Greenhouse with name greenhouse
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Wireless Access Point with name wireless_access_point
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Security Terminal with name security_station
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Quantum Ring with name quantum_ring
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Quantum Link Chamber with name quantum_link
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Drive with name storage_drive
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Chest with name storage_chest
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Interface with name interfaces_interface
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Interface with name interfaces_interface_mv
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Interface with name interfaces_interface_hv
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Interface with name interfaces_interface_ev
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Interface with name fluid_interfaces_interface
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Interface with name fluid_interfaces_interface_mv
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Interface with name fluid_interfaces_interface_hv
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Interface with name fluid_interfaces_interface_ev
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cell Workbench with name cell_workbench
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME IO Port with name io_port
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Matter Condenser with name io_condenser
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energy Acceptor with name energy_energy_acceptor
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Energy Cell with name energy_energy_cell
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crafting Unit with name cpu_crafting_unit
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Molecular Assembler with name molecular_assembler
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Molecular Assembler with name molecular_assembler_ev
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Molecular Assembler with name molecular_assembler_iv
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wireless Terminal with name wireless_terminal
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Biometric Card with name network_biometric_card
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Memory Card with name network_memory_card
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Network Tool with name network_tool
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Storage Housing with name empty_storage_cell
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Advanced Card with name advancedcard
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fuzzy Card with name cardfuzzy
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Inverter Card with name cardinverter
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Pattern Expansion Card with name cardpatternexpansion
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Acceleration Card with name cardspeed
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Card with name basiccard
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Capacity Card with name cardcapacity
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Crafting Card with name cardcrafting
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Redstone Card with name cardredstone
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wireless Receiver with name wireless_part
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Annihilation Core with name annihilationcore
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Formation Core with name formationcore
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Illuminated Panel with name panels_semi_dark_monitor
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Illuminated Panel with name panels_semi_dark_monitor_lv
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Storage Bus with name storage_bus
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for ME OreDict Storage Bus with name oredict_storage_bus
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Storage Bus with name storage_bus_fluid
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Import Bus with name import_bus
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Import Bus with name import_bus_fluid
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Export Bus with name export_bus
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Export Bus with name export_bus_fluid
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Formation Plane with name planes_formation
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Annihilation Plane with name planes_annihilation
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Formation Plane with name planes_formation_fluid
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Annihilation Plane with name planes_annihilation_fluid
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Terminal with name terminals
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Terminal with name terminals_simple
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Crafting Terminal with name terminals_crafting
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Pattern Terminal with name terminals_pattern
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Extended Processing Pattern Terminal with name terminals_extended_pattern
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Interface Terminal with name terminals_interface
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for ME Fluid Terminal with name terminals_fluid
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for P2P Tunnel - ME with name tunnels_me
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wireless Booster with name wireless_booster
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Portable Cell with name network_portable_cell
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cassiterite Ore with name ct_shaped-1059673068
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coal Ore with name ct_shaped983206370
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chalcopyrite Ore with name ct_shaped-713001920
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Banded Iron Ore with name ct_shaped-1673403736
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coal Ore with name ct_shaped868508717
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Nickel Ore with name ct_shaped-1458837758
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silver Ore with name ct_shaped-1203845534
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Ore with name ct_shaped-1089248168
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lead Ore with name ct_shaped-1625284944
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Diamond Stiffened Mesh with name ct_shapeless1791239060
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Stiffened Mesh with name ct_shapeless-397965808
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Diamond with name ct_shapeless1688448497
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cassiterite Ore with name ct_shaped-66133735
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Ore with name ct_shaped-1463357268
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Ore with name ct_shaped-1488752933
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rubber Tree Sapling with name ct_shaped488073546
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Coal Ore with name ct_shaped-897133954
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Ore with name ct_shaped-582100720
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cassiterite Ore with name ct_shaped-115230957
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Ore with name ct_shaped-422155104
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Ore with name ct_shaped-781507404
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawer with name basicdrawers_fulldrawers1_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawer with name basicdrawers_fulldrawers1_spruce
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawer with name basicdrawers_fulldrawers1_birch
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawer with name basicdrawers_fulldrawers1_jungle
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawer with name basicdrawers_fulldrawers1_acacia
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawer with name basicdrawers_fulldrawers1_dark_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 1x2 with name basicdrawers_fulldrawers2_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 1x2 with name basicdrawers_fulldrawers2_spruce
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 1x2 with name basicdrawers_fulldrawers2_birch
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 1x2 with name basicdrawers_fulldrawers2_jungle
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 1x2 with name basicdrawers_fulldrawers2_acacia
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 1x2 with name basicdrawers_fulldrawers2_dark_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 2x2 with name basicdrawers_fulldrawers4_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 2x2 with name basicdrawers_fulldrawers4_spruce
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 2x2 with name basicdrawers_fulldrawers4_birch
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 2x2 with name basicdrawers_fulldrawers4_jungle
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 2x2 with name basicdrawers_fulldrawers4_acacia
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Basic Drawers 2x2 with name basicdrawers_fulldrawers4_dark_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 1x2 with name basicdrawers_halfdrawers2_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 1x2 with name basicdrawers_halfdrawers2_spruce
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 1x2 with name basicdrawers_halfdrawers2_birch
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 1x2 with name basicdrawers_halfdrawers2_jungle
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 1x2 with name basicdrawers_halfdrawers2_acacia
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 1x2 with name basicdrawers_halfdrawers2_dark_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 2x2 with name basicdrawers_halfdrawers4_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 2x2 with name basicdrawers_halfdrawers4_spruce
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 2x2 with name basicdrawers_halfdrawers4_birch
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 2x2 with name basicdrawers_halfdrawers4_jungle
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 2x2 with name basicdrawers_halfdrawers4_acacia
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Half Drawers 2x2 with name basicdrawers_halfdrawers4_dark_oak
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Framing Table with name framing_table
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Framed Drawer with name framed_drawer_full1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Framed Drawers 1x2 with name framed_drawer_full2
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Framed Drawers 2x2 with name framed_drawer_full4
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Framed Half Drawers 1x2 with name framed_drawer_half2
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Framed Half Drawers 2x2 with name framed_drawer_half4
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drawer Controller with name drawer_controller
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Controller Slave with name drawer_controller_slave
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Upgrade Template with name upgrade_template
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (I) with name upgrade_storage_obsidian
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (II) with name upgrade_storage_iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (III) with name upgrade_storage_gold
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (IV) with name upgrade_storage_diamond
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Upgrade (V) with name upgrade_storage_emerald
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Downgrade with name upgrade_one_stack
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Void Upgrade with name drawer_upgrade_void
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Drawer Key with name key_drawer
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Trying to add shapedrecipe without correct output
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Potion of Fire Resistance with name fire_resistance_short
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Potion of Fire Resistance with name fire_resistance_long
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bottle o' Enchanting with name xp_bottle
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <gregtech:meta_ingot:328>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:iron_ingot>
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: appliedenergistics2.grinder
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: appliedenergistics2.inscriber
